@@ -234,7 +234,7 @@ class Anasayfa extends State<anaSayfa> {
                 width: 90.0,
                 height: 100.0,
                 decoration: BoxDecoration(
-                  color: Colors.white,
+                  color: Colors.blue[300],
                   border: Border.all(
                     color: Colors.black,
                   ),
@@ -285,7 +285,7 @@ class Anasayfa extends State<anaSayfa> {
                 width: 90.0,
                 height: 100.0,
                 decoration: BoxDecoration(
-                  color: Colors.blue[300],
+                  color: Colors.white,
                   border: Border.all(
                     color: Colors.black,
                   ),
@@ -400,7 +400,7 @@ class Anasayfa extends State<anaSayfa> {
           ),
           Container(
             child: Text(
-              "14-15-16",
+              "13-14-15",
               style: TextStyle(
                 fontSize: 30,
                 color: Colors.red,
